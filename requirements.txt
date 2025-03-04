@@ -1,0 +1,8 @@
+flask
+torch
+transformers
+whisper
+TTS
+streamlit
+requests
+soundfile
